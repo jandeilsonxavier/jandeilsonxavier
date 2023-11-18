@@ -2,7 +2,7 @@
 <h2 align="center">Mas pode me chamar de Jan<h2>
 <h3 align="left">Graduado em Engenharia Eletríca</h3>
 
-<h3 align="left">Connect with me x:</h3>
+<h3 align="left">Connect with me dffdgd x:</h3>
 <p align="left">
 </p>
 
