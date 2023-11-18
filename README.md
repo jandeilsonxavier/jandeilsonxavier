@@ -1,6 +1,6 @@
 <h1 align="center">Olá! 👋 Eu sou Jandeilson Xavier (Jan)</h1>
-<h2 align="center">Mas pode me chamar de Jan<h2>
 <h3 align="left">Graduado em Engenharia Eletríca</h3>
+<h3 align="left">Cientista de Dados em construção</h3>
 
 <h3 align="left">Connect with me dffdgd x:</h3>
 <p align="left">
