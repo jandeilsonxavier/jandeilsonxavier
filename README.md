@@ -1,6 +1,6 @@
 <h1 align="center">Olá! 👋 Eu sou Jandeilson Xavier (Jan)</h1>
 <h2 align="center">Mas pode me chamar de Jan<h2>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">Graduado em Engenharia Eletríca</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
