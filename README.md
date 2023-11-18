@@ -2,7 +2,7 @@
 <h3 align="left">Graduado em Engenharia Eletríca</h3>
 <h3 align="left">Cientista de Dados em construção 😃</h3>
 
-<h3 align="left">Contato:jandeilsonxs@gmail.com</h3>
+<h3 align="left">Contato: jandeilsonxs@gmail.com</h3>
 <p align="left">
 </p>
 
