@@ -1,6 +1,8 @@
 # Olá, sou Jandeilson Xavier! 👋
 
-Sou um profissional apaixonado por tecnologia, dados e soluções inteligentes. Minha formação acadêmica e experiência prática me permitem atuar em projetos multidisciplinares, unindo criatividade e técnica para resolver problemas complexos.
+Sou um profissional apaixonado por dados e tecnologia, com formação em Engenharia Elétrica, especialização em Ciência de Dados e atualmente cursando mestrado em Inteligência Artificial. Tenho experiência na aplicação de técnicas de Machine Learning, Deep Learning e EDA para solucionar desafios reais, além de habilidades em desenvolvimento de sistemas interativos e visualizações de dados.
+
+Minha carreira é impulsionada pela curiosidade e pelo desejo de transformar desafios complexos em soluções inovadoras. Tenho como foco a utilização de dados para impulsionar decisões estratégicas, gerar valor para os negócios e criar impacto positivo na sociedade.
 
 ## Áreas de Atuação
 - **Ciência de Dados**: Especializado em análise exploratória de dados, modelagem preditiva e criação de dashboards interativos.
