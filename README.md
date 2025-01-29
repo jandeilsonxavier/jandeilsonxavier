@@ -30,7 +30,6 @@ Minha carreira é impulsionada pela curiosidade e pelo desejo de transformar des
 ## Vamos Conectar?
 - **E-mail**: <jandeilsonxs@gmail.com>
 - **LinkedIn**: <https://www.linkedin.com/in/jandeilsonxavier>
-- **GitHub**: <https://github.com/jandeilsonxavier>
 
 
 <!--
