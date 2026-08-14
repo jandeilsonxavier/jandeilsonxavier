@@ -73,7 +73,7 @@ Atuo desde a ingestão, tratamento e análise exploratória até o desenvolvimen
   <sub>Sinta-se à vontade para explorar meus repositórios ou me chamar no LinkedIn para conexões e projetos! 🤝</sub>
 </div>
 
-
+![Estatísticas](https://vercel.app)
 # Olá, sou Jandeilson Xavier! 👋
 
 Sou um profissional apaixonado por dados e tecnologia, com formação em Engenharia Elétrica, especialização em Ciência de Dados e atualmente cursando mestrado em Inteligência Artificial. Tenho experiência na aplicação de técnicas de Machine Learning, Deep Learning e EDA para solucionar desafios reais, além de habilidades em desenvolvimento de sistemas interativos e visualizações de dados.
