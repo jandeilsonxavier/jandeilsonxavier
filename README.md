@@ -60,21 +60,10 @@ Atuo desde a ingestão, tratamento e análise exploratória até o desenvolvimen
 
 ---
 
-### 📊 Estatísticas do GitHub
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jandeilsonxavier&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jandeilsonxavier&layout=compact&theme=dracula&hide=html,css"/>
-</div>
-
----
-
 <div align="center">
   <sub>Sinta-se à vontade para explorar meus repositórios ou me chamar no LinkedIn para conexões e projetos! 🤝</sub>
 </div>
 
-![Estatísticas](https://vercel.app)
-# Olá, sou Jandeilson Xavier! 👋
 
 Sou um profissional apaixonado por dados e tecnologia, com formação em Engenharia Elétrica, especialização em Ciência de Dados e atualmente cursando mestrado em Inteligência Artificial. Tenho experiência na aplicação de técnicas de Machine Learning, Deep Learning e EDA para solucionar desafios reais, além de habilidades em desenvolvimento de sistemas interativos e visualizações de dados.
 
