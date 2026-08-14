@@ -1,3 +1,79 @@
+<div align="center">
+  <h1>Jandeilson Xavier</h1>
+  <p><strong>Cientista de Dados | Analista de Dados | Business Intelligence (BI)</strong></p>
+  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jandeilsonxavier)
+  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jandeilsonxavier)
+  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jandeilsonxs@gmail.com)
+</div>
+
+---
+
+### 🚀 Sobre Mim
+
+Engenheiro Elétrico e Cientista de Dados com pós-graduação em Data Science e Mestrado em andamento focado em Machine Learning aplicado à Saúde. 
+
+Atuo desde a ingestão, tratamento e análise exploratória até o desenvolvimento, validação, deploy e monitoramento de modelos de **Machine Learning**, **Deep Learning** e **IA Generativa (RAG/LLMs)**. Tenho forte experiência na integração entre **Hardware, IoT, Dados de Sensores e Inteligência Artificial**.
+
+* 🔭 **Atuação Atual:** Cientista de Dados no **NUTES (Núcleo de Tecnologias Estratégicas em Saúde)**, trabalhando em ecossistemas de dispositivos inteligentes e análise preditiva.
+* 💡 **Co-fundador:** Bit Maker (Estratégias de BI, dados e inovação tecnológica).
+* 🎓 **Formação:** Engenharia Elétrica | Pós-graduação em Data Science | Mestrado em Tecnologias em Saúde (ML).
+* 📍 **Localização:** Campina Grande - PB.
+
+---
+
+### 🛠️ Tecnologias & Ferramentas
+
+#### **Linguagens & Manipulação de Dados**
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
+[![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)]()
+[![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)]()
+[![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)]()
+[![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)]()
+
+#### **Machine Learning, DL & IA Generativa**
+[![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)]()
+[![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)]()
+[![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)]()
+[![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)]()
+[![XGBoost](https://img.shields.io/badge/XGBoost-111111?style=for-the-badge&logo=xgboost&logoColor=white)]()
+
+#### **Business Intelligence & Visualização**
+[![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)]()
+[![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)]()
+[![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)]()
+
+#### **Engenharia de Dados & Hardware/IoT**
+[![Apache Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)]()
+[![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)]()
+[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)]()
+[![Arduino/Sistemas Embarcados](https://img.shields.io/badge/IoT_&_Embarcados-00979D?style=for-the-badge&logo=arduino&logoColor=white)]()
+
+---
+
+### 📌 Projetos em Destaque
+
+* 💳 **[Loan Default Prediction](https://github.com/jandeilsonxavier)**: Modelo preditivo para identificação de risco de inadimplência em concessão de empréstimos (Python, Scikit-learn, TensorFlow, Streamlit).
+* 🏠 **[Predição de Preços de Imóveis](https://github.com/jandeilsonxavier)**: Aplicação interativa em Streamlit utilizando algoritmos de regressão para estimativa de valores com base em dados geográficos e estruturais.
+* 📊 **Dashboard Executivo - Superstore Sales**: Análise avançada em Power BI utilizando DAX e Modelagem Dimensional para avaliação de margem de lucro, prejuízo e impacto de descontos.
+* 🛒 **[Market Basket Analysis](https://github.com/jandeilsonxavier)**: Mineração de regras de associação e análise de grafos aplicada a dados de E-commerce.
+
+---
+
+### 📊 Estatísticas do GitHub
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jandeilsonxavier&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jandeilsonxavier&layout=compact&theme=dracula&hide=html,css"/>
+</div>
+
+---
+
+<div align="center">
+  <sub>Sinta-se à vontade para explorar meus repositórios ou me chamar no LinkedIn para conexões e projetos! 🤝</sub>
+</div>
+
+
 # Olá, sou Jandeilson Xavier! 👋
 
 Sou um profissional apaixonado por dados e tecnologia, com formação em Engenharia Elétrica, especialização em Ciência de Dados e atualmente cursando mestrado em Inteligência Artificial. Tenho experiência na aplicação de técnicas de Machine Learning, Deep Learning e EDA para solucionar desafios reais, além de habilidades em desenvolvimento de sistemas interativos e visualizações de dados.
